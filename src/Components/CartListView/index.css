@@ -1,0 +1,49 @@
+.cart-list {
+    padding-left: 0px;
+  }
+  
+  .orderCheckout{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+  }
+
+  .totalItems{
+    color:chocolate;
+    font-size:24px;
+    font-family:"Roboto";
+  }
+
+  .cartView-count-badge {
+    background-color: #bfdbfe;
+    color: #0967d2;
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 10%;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    margin-left: 8px;
+  }
+
+  .orderHeading{
+    font-size:20px;
+    color:darkblue;
+    
+  }
+
+  .total{
+    color:hotpink;
+    font-size:24px;
+  }
+
+  .checkout{
+    background-color:crimson;
+    color:azure;
+    font-size:20px;
+    border-radius:10px;
+    border: 2px solid white;
+  }
